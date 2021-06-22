@@ -8,7 +8,7 @@ This talk on machine learning, at the request of the [Coding it Forward Fellowsh
 ### Assets:
 - The slides, covering all three of the above topics, can be found here as `cif_talk_slides.pdf`.
 - The Jupyter notebook containing a shell of the ensemble modeling code, but with blanks for you to walk through on your own, can be found here as `00_ensemble_modeling_STARTER.ipynb`.
-- The Jupyter notebook containing ensemble modeling code can be found here as `00_ensemble_modeling_SOLUTION.ipynb`.
+- The Jupyter notebook containing _complete_ ensemble modeling code can be found here as `00_ensemble_modeling_SOLUTION.ipynb`.
 
 ### Contact Information:
 - [Email](mailto:matt@betavector.com)
